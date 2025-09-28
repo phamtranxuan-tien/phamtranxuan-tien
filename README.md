@@ -1,15 +1,30 @@
-<h1 align="center">Hi 👋, I'm Pham Tran Xuan Tien</h1>
-<h3 align="center">freshman at University of Information Technology</h3>
+# 👋 Hi, I'm Tien Pham
 
-- 🌱 I’m currently learning **fundamental courses**
+🔬 **AI Researcher | Learner for Life**  
 
-- 📫 How to reach me **23521583@gm.uit.edu.vn**
+I’m passionate about **artificial intelligence, computer vision, and generation**.  
+Currently, I spend most of my time working on:  
+- 🛡️ **Adversarial Attacks & Robustness** – exploring how deep learning models (YOLO, DINO, VarifocalNet, etc.) behave under adversarial conditions in **aerial imagery**.  
+- 🤖 **Generative Models & Detection** – studying how to **detect AI-generated images** using natural noise and advanced techniques (e.g., AEROBLADE, ZeroFake).  
 
-- ⚡ Fun fact **I love Rock**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 📌 Featured Interests
+- 🛰️ Applying **AI to aerial imagery** for real-world use cases (UAVs, remote sensing).  
+- 🎯 Designing **robust AI models** that can withstand black-box and physical-world adversarial attacks.  
+- 🎶 Music fuels my thinking – I’m a huge **Radiohead** fan (yes, *Everything in Its Right Place* is on repeat 🎧).  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+---
+
+## 🌱 Currently Exploring
+- Generalizable **AI-generated image detection**
+- **Personalized Generation** 
+
+---
+
+## 📫 Let’s Connect!
+- GitHub: [github.com/phamtranxuan-tien](https://github.com/phamtranxuan-tien)  
+
+---
+
+✨ *I believe in learning deeply, breaking things down, and building them back stronger.*  
